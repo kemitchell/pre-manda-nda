@@ -35,7 +35,7 @@ Information _Receiving Party_ develops independently is not, or ceases to be, _C
 # Confidentiality Obligations
 
 ## Nondisclosure
-Except as described in [Permitted Disclosure]() and [Disclosure to Funding Sources](), _Receiving Party_ shall not disclose _Confidential Information_ to anyone.
+Except as described in [Permitted Disclosure]() and [Funding Sources](), _Receiving Party_ shall not disclose _Confidential Information_ to anyone.
 
 ## Permitted Disclosure
 _Receiving Party_ may disclose _Confidential Information_ to the following personnel:
