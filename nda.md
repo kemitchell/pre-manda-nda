@@ -186,8 +186,8 @@ Obligations under [Confidentiality Obligations]() for _Confidential Information_
 
 # General Contract Terms
 
-## No Assignment
-Neither party may assign any right under this agreement without the prior, signed, written consent of the other party.  Any attempt to assign without consent will have no legal effect.
+## Assignment
+Neither party may assign any right under this agreement without the prior, signed, written consent of the other party, other than in connection with a merger, acquisition, corporate reorganization, or sale of all or substantially all of the party's assets.  Any attempt to assign against the terms of this agreement will have no legal effect.
 
 ## No Delegation
 Neither party may delegate any obligation under this agreement without the prior, signed, written consent of the other party.  Any attempt to delegate without consent will have no legal effect.
