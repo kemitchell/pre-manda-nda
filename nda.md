@@ -4,7 +4,7 @@ The parties agree:
 **Disclosing Party** describes each party with respect to _Confidential Information_ it discloses to the other party. **Receiving Party** describes each party with respect to _Confidential Information_ it receives from the other party.
 
 # Purpose
-The parties anticipate disclosure of _Confidential Information_ for the purpose on the evaluating a potential merger or acquisition transaction between the parties (the **Deal**).
+The parties anticipate disclosure of _Confidential Information_ for the purpose of evaluating a potential merger or acquisition transaction between the parties (the **Deal**).
 
 # Confidential Information
 
