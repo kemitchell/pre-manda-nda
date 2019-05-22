@@ -162,6 +162,13 @@ This agreement does not restrict either party from hiring any individual who res
 
 Each party acknowledges that [No Solicitation]() provides each party with a protection against misuse of _Confidential Information_ that couldn't be accomplished in any less restrictive way.
 
+# No Exclusivity
+Neither party shall, directly or through others, enter into any oral or written agreement, arrangement, or understanding, or take part in discussions reasonably expected to produce one, regarding the engagement of a debt or equity financing source:
+
+- on an exclusive basis; or
+
+- in such a manner that would otherwise prohibit or impede any other person from obtaining debt financing from such financing source in connection with a deal with the other party.
+
 # Term
 
 ## Expiration
