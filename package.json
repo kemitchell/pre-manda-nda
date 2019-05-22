@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "devDependencies": {
+    "commonform-cli": "^0.31.0",
+    "commonmark-to-commonform": "^2.0.0"
+  }
+}
