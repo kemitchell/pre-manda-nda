@@ -4,7 +4,7 @@ The parties agree:
 **Disclosing Party** describes each party with respect to _Confidential Information_ it discloses to the other party. **Receiving Party** describes each party with respect to _Confidential Information_ it receives from the other party.
 
 # Purpose
-The parties anticipate disclosure of _Confidential Information_ for the purpose on the accompanying standard form certificate (the **Purpose**).
+The parties anticipate disclosure of _Confidential Information_ for the purpose on the evaluating a potential merger or acquisition transaction between the parties (the **Deal**).
 
 # Confidential Information
 
@@ -13,7 +13,7 @@ Subject to [Exclusions from Confidential Information](), **Confidential Informat
 
 - information disclosed by _Disclosing Party_ during the term of this agreement that is related to the business of _Disclosing Party_;
 
-- the fact that the parties are pursuing the _Purpose_;
+- the fact that the parties are pursuing the _Deal_;
 
 - the terms of this agreement;
 
@@ -35,21 +35,30 @@ Information _Receiving Party_ develops independently is not, or ceases to be, _C
 # Confidentiality Obligations
 
 ## Nondisclosure
-Except as described in [Permitted Disclosure](), _Receiving Party_ shall not disclose _Confidential Information_ to anyone.
+Except as described in [Permitted Disclosure]() and [Disclosure to Funding Sources](), _Receiving Party_ shall not disclose _Confidential Information_ to anyone.
 
 ## Permitted Disclosure
 _Receiving Party_ may disclose _Confidential Information_ to the following personnel:
 
 - employees, independent contractors, officers, directors, and agents of _Receiving Party_ (**Personnel**) who:
 
-  - have a need to know the _Confidential Information_ to advance the _Purpose_; and
+  - have a need to know the _Confidential Information_ to advance the _Deal_; and
 
   - have entered written confidentiality agreements with _Receiving Party_ that impose confidentiality obligations, affording as much or more protection as those of this agreement, that apply to the _Confidential Information_; and
 
 - legal and financial advisers providing services to _Receiving Party_ under confidentiality obligations imposed either by law or by professional rules (**Advisers**)
 
+## Funding Sources
+[Permitted Disclosure](#permitted-disclosure) does not permit disclosure of _Confidential Information_ to _Receiving Party_'s sources of debt or equity financing, affiliates, limited partners, members, stockholders, or other investors, unless and until:
+
+-  the _Deal_ goes through;
+
+-  the recipient has an interest in the _Deal_; and
+
+-  the recipient has entered a written confidentiality agreement with _Receiving Party_ that imposes confidentiality obligations affording as much or more protection as those of this agreement that applies to the _Confidential Information_.
+
 ## Limited Use
-_Receiving Party_ shall use _Confidential Information_ only to advance the _Purpose_.
+_Receiving Party_ shall use _Confidential Information_ only to advance the _Deal_.
 
 ## Security Measures
 _Receiving Party_ shall take measures to secure materials embodying _Confidential Information_ at least as protective as those _Receiving Party_ employs to secure its own _Confidential Information_, but in any event no less than reasonable measures.
@@ -100,7 +109,7 @@ Both parties shall comply with export and reexport laws with respect to _Confide
 No terms of this agreement obligate _Disclosing Party_ to disclose any _Confidential Information_.
 
 ## No Obligation to Do Business
-No terms of this agreement obligate either party to enter any business relationship or agreement, related to the _Purpose_ or otherwise.
+No terms of this agreement obligate either party to enter any business relationship or agreement, related to the _Deal_ or otherwise.
 
 ## No License
 No terms of this agreement grant any license for any patent, trademark, copyright, or other intellectual property.
@@ -141,7 +150,7 @@ Except as described in [General Solicitations](), until one year from the date o
 
 - any executive employed by the other party; or 
 
-- any other employee or contractor of the other party they became aware of, or about whose performance they learned, in connection with the _Purpose_
+- any other employee or contractor of the other party they became aware of, or about whose performance they learned, in connection with the _Deal_
 
 directly or indirectly, without the prior, written permission of the other party, unless the individual was terminated by the other party before being solicited or hired.
 
@@ -193,13 +202,13 @@ The parties shall send every notice, demand, consent, request, or other communic
 Either party may change its e-mail or postal address for later communications by giving notice of a new address.
 
 ## Severability
-If a court decides that any part of this agreement is invalid or unenforceable for any reason but enforcing the rest of the agreement would serve the purpose of protecting _Confidential Information_ to advance the _Purpose_, then the rest of this agreement will remain in force.
+If a court decides that any part of this agreement is invalid or unenforceable for any reason but enforcing the rest of the agreement would serve the purpose of protecting _Confidential Information_ to advance the _Deal_, then the rest of this agreement will remain in force.
 
 ## No Third-Party Enforcement
 Only the parties may enforce rights under this agreement.
 
 ## Entire Agreement
-The parties intend the terms of this agreement as the final, complete, and only expression of their agreement about protection of _Confidential Information_ exchanged to advance the _Purpose_.
+The parties intend the terms of this agreement as the final, complete, and only expression of their agreement about protection of _Confidential Information_ exchanged to advance the _Deal_.
 
 ## Signature
 A written or electronically signed copy of this agreement delivered by e-mail or other electronic means has the same legal effect as delivering a printed and signed original.
