@@ -9,7 +9,7 @@ critique: nda.json
 docx: nda.docx
 
 nda.docx: nda.json signatures.json styles.json
-	npx -q -p commonform-cli commonform render -f docx --title "Mutual Nondisclosure Agreement" --indent-margins --left-align-title -n outline --styles styles.json -s signatures.json $< > $@
+	npx -q -p commonform-cli commonform render -f docx --title "Pre-M&A Mutual Nondisclosure Agreement" --indent-margins --left-align-title -n outline --styles styles.json -s signatures.json $< > $@
 
 pdf: nda.pdf
 
