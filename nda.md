@@ -152,7 +152,7 @@ Except as described in [General Solicitations](), until one year from the date o
 
 - any other employee or contractor of the other party they became aware of, or about whose performance they learned, in connection with the _Deal_
 
-directly or indirectly, without the prior, written permission of the other party, unless the individual was terminated by the other party before being solicited or hired.
+directly or indirectly, without the prior, signed, written consent of the other party, unless the individual was terminated by the other party before being solicited or hired.
 
 ## General Solicitations
 
