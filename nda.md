@@ -186,8 +186,11 @@ Obligations under [Confidentiality Obligations]() for _Confidential Information_
 
 # General Contract Terms
 
-## No Assignment or Delegation
-Neither party may assign any right or delegate any obligation under this agreement without the prior, signed, written consent of the other party.  Any attempt to assign or delegate without consent will have no legal effect.
+## No Assignment
+Neither party may assign any right under this agreement without the prior, signed, written consent of the other party.  Any attempt to assign without consent will have no legal effect.
+
+## No Delegation
+Neither party may delegate any obligation under this agreement without the prior, signed, written consent of the other party.  Any attempt to delegate without consent will have no legal effect.
 
 ## Dispute Resolution
 The law of the state on the accompanying standard form certificate will govern all aspects of this agreement.  The parties shall bring legal proceedings related to this agreement only in state or federal courts located in that state.  The parties consent to the exclusive jurisdiction of those courts and waive any objection that legal proceedings brought there are brought in an inconvenient forum.  The parties may enforce judgments of those courts in any appropriate forum.
