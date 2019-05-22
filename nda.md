@@ -131,8 +131,27 @@ No terms of this agreement prohibit either party from:
 - An individual who files a lawsuit for retaliation by an employer for reporting a suspected violation of law may disclose the trade secret to the attorney of the individual and use the trade secret information in the court proceeding, if the individual:
 
   - files any document containing the trade secret under seal; and
+- does not disclose the trade secret, except pursuant to court order.
 
-  - does not disclose the trade secret, except pursuant to court order.
+# No Solicitation
+
+## Specific Solicitations and Hires
+
+Except as described in [General Solicitations](), until one year from the date of this agreement terminates, neither party shall solicit to hire or hire:
+
+- any executive employed by the other party; or 
+
+- any other employee or contractor of the other party they became aware of, or about whose performance they learned, in connection with the _Purpose_
+
+directly or indirectly, without the prior, written permission of the other party, unless the individual was terminated by the other party before being solicited or hired.
+
+## General Solicitations
+
+This agreement does not restrict either party from hiring any individual who responds to any advertisement or announcement that is not directed specifically at personnel of the other party, or any individual recruited by a recruitment firm that did not specifically target personnel of the other party.
+
+## Purpose of No Solicitation
+
+Each party acknowledges that [No Solicitation]() provides each party with a protection against misuse of _Confidential Information_ that couldn't be accomplished in any less restrictive way.
 
 # Term
 
