@@ -40,7 +40,7 @@ Except as described in [Permitted Disclosure](), _Receiving Party_ shall not dis
 ## Permitted Disclosure
 _Receiving Party_ may disclose _Confidential Information_ to the following personnel:
 
-- if _Receiving Party_ is a legal entity, employees, independent contractors, officers, directors, and agents of _Receiving Party_ (**Personnel**) who:
+- employees, independent contractors, officers, directors, and agents of _Receiving Party_ (**Personnel**) who:
 
   - have a need to know the _Confidential Information_ to advance the _Purpose_; and
 
@@ -90,9 +90,9 @@ Both parties shall comply with export and reexport laws with respect to _Confide
 
 ## Compliance and Oversight
 
-- _Receiving Party_ shall ensure that its _Advisers_ abide by the confidentiality obligations of _Receiving Party_ under this agreement.  If _Receiving Party_ is a legal entity, _Receiving Party_ shall also ensure that its _Personnel_ abide by the confidentiality obligations of _Receiving Party_ under this agreement.  Breach of _Receiving Party_ obligations by _Receiving Party_ _Personnel_ or _Receiving Party_ _Advisers_ will be deemed breach of this agreement by _Receiving Party_ itself.
+- _Receiving Party_ shall ensure that its _Personnel_ and _Advisers_ abide by the confidentiality obligations of _Receiving Party_ under this agreement.  Breach of _Receiving Party_ obligations by _Receiving Party_ _Personnel_ or _Receiving Party_ _Advisers_ will be deemed breach of this agreement by _Receiving Party_ itself.
 
-- If _Receiving Party_ is a legal entity, _Receiving Party_ shall provide _Disclosing Party_ copies of confidentiality agreements with _Personnel_ who receive _Confidential Information_ on _Disclosing Party_ request.
+- _Receiving Party_ shall provide _Disclosing Party_ copies of confidentiality agreements with _Personnel_ who receive _Confidential Information_ on _Disclosing Party_ request.
 
 # Clarifications
 
