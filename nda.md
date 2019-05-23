@@ -196,7 +196,7 @@ Neither party may assign any right under this agreement without the prior, signe
 Neither party may delegate any obligation under this agreement without the prior, signed, written consent of the other party.  Any attempt to delegate against the terms of this agreement will have no legal effect.
 
 ## Dispute Resolution
-The law of `Governing Law State` will govern all aspects of this agreement.  The parties shall bring legal proceedings related to this agreement only in state or federal courts located in that state.  The parties consent to the exclusive jurisdiction of those courts and waive any objection that legal proceedings brought there are brought in an inconvenient forum.  The parties may enforce judgments of those courts in any appropriate forum.
+The law of `Governing Law State` will govern all aspects of this agreement.  The parties shall bring legal proceedings related to this agreement only in state or federal courts located in `Disputes Forum`.  The parties consent to the exclusive jurisdiction of those courts and waive any objection that legal proceedings brought there are brought in an inconvenient forum.  The parties may enforce judgments of those courts in any appropriate forum.
 
 ## Legal Relationship
 The parties to this agreement remain independent contractors.  This agreement does not create any partnership, joint venture, agency, or similar relationship between the parties.
