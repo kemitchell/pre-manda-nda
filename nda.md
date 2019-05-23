@@ -60,6 +60,9 @@ Except as described in [Funding Sources](#funding-sources), _Receiving Party_ ma
 ## Limited Use
 _Receiving Party_ shall use _Confidential Information_ only to advance the _Deal_.
 
+## No Back Channels
+Each party agrees not to directly or indirectly communicate with any executive or other employee of the other party, or any of its customers or suppliers, concerning the _Deal_, or to seek any information in connection with the _Deal_ from them, without the prior, signed, written consent of the other party.
+
 ## Security Measures
 _Receiving Party_ shall take measures to secure materials embodying _Confidential Information_ at least as protective as those _Receiving Party_ employs to secure its own _Confidential Information_, but in any event no less than reasonable measures.
 
@@ -141,9 +144,6 @@ No terms of this agreement prohibit either party from:
 
   - files any document containing the trade secret under seal; and
 - does not disclose the trade secret, except pursuant to court order.
-
-# No Back Channels
-Each party agrees not to directly or indirectly communicate with any executive or other employee of the other party, or any of its customers or suppliers, concerning the _Deal_, or to seek any information in connection with the _Deal_ from them, without the prior, signed, written consent of the other party.
 
 # No Solicitation
 
