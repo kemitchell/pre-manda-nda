@@ -55,7 +55,7 @@ Except as described in [Funding Sources](#funding-sources), _Receiving Party_ ma
 
 -  the recipient has an interest in the _Deal_; and
 
--  the recipient has entered a written confidentiality agreement with _Receiving Party_ that imposes confidentiality obligations affording as much or more protection as those of this agreement that applies to the _Confidential Information_.
+-  the recipient has entered a written confidentiality agreement with _Receiving Party_ that imposes confidentiality obligations affording as much or more protection as those of this agreement for the _Confidential Information_.
 
 ## Limited Use
 _Receiving Party_ shall use _Confidential Information_ only to advance the _Deal_.
