@@ -2,6 +2,7 @@
   "private": true,
   "devDependencies": {
     "commonform-cli": "^0.31.0",
-    "commonmark-to-commonform": "^2.0.0"
+    "commonmark-to-commonform": "^2.0.0",
+    "json": "^9.0.6"
   }
 }
