@@ -9,7 +9,7 @@ The parties anticipate disclosure of _Confidential Information_ for the purpose 
 # Confidential Information
 
 ## Categories of Confidential Information
-Subject to [Exclusions from Confidential Information](), **Confidential Information** means the following kinds of information:
+Subject to [Exclusions from Confidential Information](#exclusions-from-confidential-information), **Confidential Information** means the following kinds of information:
 
 - information disclosed by _Disclosing Party_ during the term of this agreement that is related to the business of _Disclosing Party_;
 
@@ -82,13 +82,13 @@ The following obligations apply when the law requires disclosure of _Confidentia
 If legally permitted, _Receiving Party_ shall promptly notify _Disclosing Party_ of the nature of the requirement and the _Confidential Information_ affected.  If practical, _Receiving Party_ shall give notice quickly enough to afford _Disclosing Party_ practical chance to start a proceeding to protect the confidentiality of the _Confidential Information_.  On _Disclosing Party_ request, _Receiving Party_ shall cooperate with _Disclosing Party_ in any such proceeding by providing reasonable assistance.
 
 ### Reimburse Expenses of Cooperation
-_Disclosing Party_ shall reimburse _Receiving Party_'s reasonable out-of-pocket expenses of cooperating in any proceeding described in [Give Notice of Required Disclosure]().
+_Disclosing Party_ shall reimburse _Receiving Party_'s reasonable out-of-pocket expenses of cooperating in any proceeding described in [Give Notice of Required Disclosure](#give-notice-of-required-disclosure).
 
 ## Give Notice of Leaks
 _Receiving Party_ shall give _Disclosing Party_ notice when _Receiving Party_ becomes aware, suspects, or anticipates that _Confidential Information_ has been or will be disclosed or used in breach of this agreement or other confidentiality agreements with _Disclosing Party_.
 
 ## Return and Destruction
-Subject to [Records Policy](), when this agreement terminates, _Receiving Party_ shall promptly:
+Subject to [Records Policy](#records-policy), when this agreement terminates, _Receiving Party_ shall promptly:
 
 - return all materials embodying _Confidential Information_ that _Disclosing Party_ provided with request to return; and
 
@@ -149,7 +149,7 @@ No terms of this agreement prohibit either party from:
 
 ## Specific Solicitations
 
-Except as described in [General Solicitations](), until one year from the date this agreement terminates, neither party shall solicit to hire or hire:
+Except as described in [General Solicitations](#general-solicitations), until one year from the date this agreement terminates, neither party shall solicit to hire or hire:
 
 - any executive employed by the other party; or 
 
@@ -163,7 +163,7 @@ This agreement does not restrict either party from hiring any individual who res
 
 ## Purpose of No Solicitation
 
-Each party acknowledges that [No Solicitation]() provides each party with a protection against misuse of _Confidential Information_ that couldn't be accomplished in any less restrictive way.
+Each party acknowledges that [No Solicitation](#no-solicitation) provides each party with a protection against misuse of _Confidential Information_ that couldn't be accomplished in any less restrictive way.
 
 # No Exclusivity
 Neither party shall, directly or through others, enter into any oral or written agreement, arrangement, or understanding, or take part in discussions reasonably expected to produce one, regarding the engagement of a debt or equity financing source:
@@ -181,7 +181,7 @@ This agreement will terminate automatically on the first anniversary of the date
 Either party may terminate this agreement early by thirty calendar days' prior written notice to the other party.
 
 ## Survival
-Obligations under [Confidentiality Obligations]() for _Confidential Information_ disclosed during the term survive the term of this agreement as follows: 
+Obligations under [Confidentiality Obligations](#confidentiality-obligations) for _Confidential Information_ disclosed during the term survive the term of this agreement as follows: 
 
 - Obligations for _Confidential Information_ that _Receiving Party_ knew or reasonably should have known constituted a trade secret survive as long as the _Confidential Information_ remains a trade secret.
 
