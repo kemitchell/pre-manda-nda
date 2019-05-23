@@ -143,7 +143,8 @@ No terms of this agreement prohibit either party from:
 - An individual who files a lawsuit for retaliation by an employer for reporting a suspected violation of law may disclose the trade secret to the attorney of the individual and use the trade secret information in the court proceeding, if the individual:
 
   - files any document containing the trade secret under seal; and
-- does not disclose the trade secret, except pursuant to court order.
+
+  - does not disclose the trade secret, except pursuant to court order.
 
 # No Solicitation
 
