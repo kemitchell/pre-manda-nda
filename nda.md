@@ -176,7 +176,7 @@ Neither party shall, directly or through others, enter into any oral or written 
 # Term
 
 ## Expiration
-This agreement will terminate automatically on the first anniversary of the date of this agreement.
+This agreement will continue until terminated by one of the parties.
 
 ## Termination by Notice
 Either party may terminate this agreement early by thirty calendar days' prior written notice to the other party.
