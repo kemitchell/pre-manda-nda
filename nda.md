@@ -146,9 +146,9 @@ No terms of this agreement prohibit either party from:
 
   - does not disclose the trade secret, except pursuant to court order.
 
-# No Solicitation
+# No Targeted Solicitation
 
-## Specific Solicitations
+## Targeted Solicitations
 
 Except as described in [General Solicitations](#general-solicitations), until one year from the date this agreement terminates, neither party shall solicit to hire or hire:
 
@@ -164,7 +164,7 @@ This agreement does not restrict either party from hiring any individual who res
 
 ## Purpose of No Solicitation
 
-Each party acknowledges that [No Solicitation](#no-solicitation) provides each party with a protection against misuse of _Confidential Information_ that couldn't be accomplished in any less restrictive way.
+Each party acknowledges that [No Targeted Solicitation](#no-solicitation) provides each party with a protection against misuse of _Confidential Information_ that couldn't be accomplished in any less restrictive way.
 
 # No Exclusivity
 Neither party shall, directly or through others, enter into any oral or written agreement, arrangement, or understanding, or take part in discussions reasonably expected to produce one, regarding the engagement of a debt or equity financing source:
