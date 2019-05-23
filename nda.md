@@ -9,7 +9,7 @@ The parties anticipate disclosure of _Confidential Information_ for the purpose 
 # Confidential Information
 
 ## Categories of Confidential Information
-Subject to [Exclusions from Confidential Information](#exclusions-from-confidential-information), **Confidential Information** means the following kinds of information:
+Subject to [Exclusions from Confidential Information](#exclusions-from-confidential-information), **Confidential Information** means:
 
 - information disclosed by _Disclosing Party_ during the term of this agreement that is related to the business of _Disclosing Party_;
 
