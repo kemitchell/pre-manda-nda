@@ -147,7 +147,7 @@ No terms of this agreement prohibit either party from:
 
 # No Solicitation
 
-## Specific Solicitations and Hires
+## Specific Solicitations
 
 Except as described in [General Solicitations](), until one year from the date this agreement terminates, neither party shall solicit to hire or hire:
 
