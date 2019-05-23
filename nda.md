@@ -1,10 +1,10 @@
 The parties agree:
 
-# Mutual Nondisclosure
-**Disclosing Party** describes each party with respect to _Confidential Information_ it discloses to the other party. **Receiving Party** describes each party with respect to _Confidential Information_ it receives from the other party.
-
 # Purpose
 The parties anticipate disclosure of _Confidential Information_ for the purpose of evaluating a potential merger or acquisition transaction between the parties (the **Deal**).
+
+# Mutual Nondisclosure
+**Disclosing Party** describes each party with respect to _Confidential Information_ it discloses to the other party. **Receiving Party** describes each party with respect to _Confidential Information_ it receives from the other party.
 
 # Confidential Information
 
