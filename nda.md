@@ -179,7 +179,7 @@ Neither party shall, directly or through others, enter into any oral or written 
 This agreement will continue until terminated by one of the parties.
 
 ## Termination by Notice
-Either party may terminate this agreement early by thirty calendar days' prior written notice to the other party.
+Either party may terminate this agreement early by fourteen calendar days' prior written notice to the other party.
 
 ## Survival
 Obligations under [Confidentiality Obligations](#confidentiality-obligations) for _Confidential Information_ disclosed during the term survive the term of this agreement as follows: 
