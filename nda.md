@@ -170,7 +170,7 @@ Neither party shall, directly or through others, enter into any oral or written 
 
 - on an exclusive basis; or
 
-- in such a manner that would otherwise prohibit or impede any other person from obtaining debt financing from such financing source in connection with a deal with the other party.
+- in any other way that would prohibit or impede anyone else from getting debt financing from the financing source for a deal with the other party.
 
 # Term
 
