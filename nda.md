@@ -61,7 +61,7 @@ Except as described in [Funding Sources](#funding-sources), _Receiving Party_ ma
 _Receiving Party_ shall use _Confidential Information_ only to advance the _Deal_.
 
 ## No Back Channels
-Each party agrees not to directly or indirectly communicate with any executive or other employee of the other party, or any of its customers or suppliers, concerning the _Deal_, or to seek any information in connection with the _Deal_ from them, without the prior, signed, written consent of the other party.
+Each party shall not directly or indirectly communicate with any executive or other employee of the other party, or any of its customers or suppliers, concerning the _Deal_, or to seek any information in connection with the _Deal_ from them, without the prior, signed, written consent of the other party.
 
 ## Security Measures
 _Receiving Party_ shall take measures to secure materials embodying _Confidential Information_ at least as protective as those _Receiving Party_ employs to secure its own _Confidential Information_, but in any event no less than reasonable measures.
