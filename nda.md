@@ -38,7 +38,7 @@ Information _Receiving Party_ develops independently is not, or ceases to be, _C
 Except as described in [Permitted Disclosure](#permitted-disclosure) and [Funding Sources](#funding-sources), _Receiving Party_ shall not disclose _Confidential Information_ to anyone.
 
 ## Permitted Disclosure
-_Receiving Party_ may disclose _Confidential Information_ to the following personnel:
+Except as described in [Funding Sources](#funding-sources), _Receiving Party_ may disclose _Confidential Information_ to the following personnel:
 
 - employees, independent contractors, officers, directors, and agents of _Receiving Party_ (**Personnel**) who:
 
