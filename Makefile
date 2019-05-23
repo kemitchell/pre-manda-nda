@@ -1,5 +1,6 @@
 COMMONFORM=node_modules/.bin/commonform
 PARSER=node_modules/.bin/commonmark-to-commonform
+JSON=node_modules/.bin/json
 
 .PHONY: lint critique docx pdf
 
@@ -21,8 +22,8 @@ nda.pdf: nda.docx
 
 .INTERMEDIATE: nda.json
 
-nda.json: nda.md | $(PARSER)
-	cat $< | $(PARSER) | npx json form > $@
+nda.json: nda.md | $(PARSER) $(JSON)
+	cat $< | $(PARSER) | $(JSON) form > $@
 
-$(COMMONFORM) $(PARSER):
+$(COMMONFORM) $(PARSER) $(JSON):
 	npm install
