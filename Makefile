@@ -2,7 +2,7 @@ COMMONFORM=node_modules/.bin/commonform
 PARSER=node_modules/.bin/commonmark-to-commonform
 JSON=node_modules/.bin/json
 
-.PHONY: lint critique docx pdf
+.PHONY: lint critique docx pdf clean
 
 lint: nda.json | $(COMMONFORM)
 	$(COMMONFORM) lint $<
@@ -27,3 +27,6 @@ nda.json: nda.md | $(PARSER) $(JSON)
 
 $(COMMONFORM) $(PARSER) $(JSON):
 	npm install
+
+clean:
+	rm -f nda.json nda.docx nda.pdf
