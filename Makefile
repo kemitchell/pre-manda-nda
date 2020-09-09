@@ -26,7 +26,7 @@ nda.json: nda.md | $(PARSER) $(JSON)
 	cat $< | $(PARSER) | $(JSON) form > $@
 
 $(COMMONFORM) $(PARSER) $(JSON):
-	npm install
+	npm ci
 
 clean:
 	rm -f nda.json nda.docx nda.pdf
